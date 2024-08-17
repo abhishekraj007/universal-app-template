@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>310345225223-v7qshlmd9soipjugt5p4d84iugnfld7c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.310345225223-v7qshlmd9soipjugt5p4d84iugnfld7c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>310345225223-7d90h2knj9k2drdvi7cnvrf6obl20cvc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYtZoc5h9ydYD3yQhpqzF03YF-2jU66ac</string>
+	<key>GCM_SENDER_ID</key>
+	<string>310345225223</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.akrj.bodyfitnessapp</string>
+	<key>PROJECT_ID</key>
+	<string>be-fit-kwyjg</string>
+	<key>STORAGE_BUCKET</key>
+	<string>be-fit-kwyjg.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:310345225223:ios:c57d2ae9869c6f046cc6a2</string>
+</dict>
+</plist>

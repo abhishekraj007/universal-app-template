@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "bodyfit",
+    "slug": "bodyfit",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f212fb70-476a-49bc-86ad-ce8a67af5a5a"
+      }
+    }
+  }
+}

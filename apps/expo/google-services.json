@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "310345225223",
+    "project_id": "be-fit-kwyjg",
+    "storage_bucket": "be-fit-kwyjg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310345225223:android:307ee87dfa55f9c76cc6a2",
+        "android_client_info": {
+          "package_name": "com.akrj.bodyfitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310345225223-g4kdvddtujsp0nhli76sus7cklr929uu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akrj.bodyfitnessapp",
+            "certificate_hash": "028813cf544d225c7b31deb455aaeff7ebe1ca96"
+          }
+        },
+        {
+          "client_id": "310345225223-f060hit7f9p1992mi4c17fd660hes82h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBizNXkcJBCNgUrsJspcmc_35fD8DM0gME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310345225223-f060hit7f9p1992mi4c17fd660hes82h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310345225223-v7qshlmd9soipjugt5p4d84iugnfld7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.akrj.bodyfitnessapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

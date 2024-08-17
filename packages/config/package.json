@@ -1,0 +1,33 @@
+{
+  "name": "@my/config",
+  "version": "0.0.1",
+  "sideEffects": [
+    "*.css"
+  ],
+  "private": true,
+  "types": "./src",
+  "main": "src/index.ts",
+  "files": [
+    "types",
+    "dist"
+  ],
+  "scripts": {
+    "build": "tamagui-build --skip-types",
+    "watch": "tamagui-build --skip-types --watch"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.24.0",
+    "@react-native-firebase/app": "^20.4.0",
+    "@react-native-firebase/auth": "^20.4.0",
+    "@tamagui/animations-react-native": "^1.108.3",
+    "@tamagui/font-inter": "^1.108.3",
+    "@tamagui/react-native-media-driver": "^1.108.3",
+    "@tamagui/shorthands": "^1.108.3",
+    "@tamagui/themes": "^1.108.3",
+    "firebase": "^10.12.5",
+    "tamagui": "^1.108.3"
+  },
+  "devDependencies": {
+    "@tamagui/build": "^1.108.3"
+  }
+}
